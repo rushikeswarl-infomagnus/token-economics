@@ -42,6 +42,17 @@ Unused credits from light users absorb heavier users' consumption through poolin
 
 This assumes additional usage is enabled. If it is blocked, AI-credit features stop when the applicable budget is exhausted; included code completions remain available.
 
+### Per-User Examples After 3,900 Credits
+
+The included credits are pooled, so these examples represent the equivalent consumption for one seat. Overage is billed only after the billing entity's shared pool is exhausted.
+
+| Monthly Usage | Included Credits | Additional Credits | Additional Cost | Total with Seat |
+|--------------:|-----------------:|-------------------:|----------------:|----------------:|
+| 4,000 | 3,900 | 100 | $1 | $40 |
+| 5,000 | 3,900 | 1,100 | $11 | $50 |
+| 7,000 | 3,900 | 3,100 | $31 | $70 |
+| 10,000 | 3,900 | 6,100 | $61 | $100 |
+
 ## Scenario 3: Promotional Period
 
 A 100-seat existing Enterprise customer receives a 700,000-credit promotional pool each month from June through August 2026.
