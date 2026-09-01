@@ -12,7 +12,7 @@ Advisory materials for navigating GitHub Copilot's transition from premium reque
 | 04 | [Before vs After June 1 Charges](04-Before-vs-After-June1-Charges.md) | Side-by-side comparison of PRU billing vs AI Credits, 4 cost scenarios, data availability calendar |
 | 05 | [AI Credits Business License Scenarios](05-AI-Credits-Business-License-Scenarios.md) | 20 detailed Business plan scenarios — individual interactions, daily profiles, team pooling, projections |
 | 06 | [Delivery Implementation Playbook](06-Delivery-Implementation-Playbook.md) | 6-phase rollout plan: Triage → Baseline → Control → Optimize → Enable → Measure |
-| 07 | [Enterprise UBB Billing Scenarios](07-UBB-Billing-Scenarios-Enterprise.md) ([HTML](07-UBB-Billing-Scenarios-Enterprise.html)) | Enterprise plan pooling, overage, promotion, chargeback, and budget scenarios |
+| 07 | [Enterprise UBB Billing Scenarios](07-UBB-Billing-Scenarios-Enterprise.md) | Enterprise plan pooling, overage, promotion, chargeback, and budget scenarios |
 
 ## Key Facts
 
