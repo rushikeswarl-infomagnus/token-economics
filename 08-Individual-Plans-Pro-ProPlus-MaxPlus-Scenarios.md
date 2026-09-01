@@ -15,7 +15,7 @@
 2. [How Individual Plan Billing Works](#2-how-individual-plan-billing-works)
 3. [Token Estimation Quick Reference](#3-token-estimation-quick-reference)
 4. [Copilot Pro Scenarios](#4-copilot-pro-scenarios)
-5. [Copilot Pro+ Scenarios](#5-copilot-pro-scenarios-1)
+5. [Copilot Pro+ Scenarios](#5-copilot-pro-scenarios)
 6. [Copilot Max+ Scenarios (Projected)](#6-copilot-max-scenarios-projected)
 7. [Cross-Plan Comparison](#7-cross-plan-comparison)
 8. [Which Plan Fits Which Developer Profile](#8-which-plan-fits-which-developer-profile)
