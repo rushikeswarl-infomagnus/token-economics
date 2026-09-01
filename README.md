@@ -13,12 +13,16 @@ Advisory materials for navigating GitHub Copilot's transition from premium reque
 | 05 | [AI Credits Business License Scenarios](05-AI-Credits-Business-License-Scenarios.md) | 20 detailed Business plan scenarios — individual interactions, daily profiles, team pooling, projections |
 | 06 | [Delivery Implementation Playbook](06-Delivery-Implementation-Playbook.md) | 6-phase rollout plan: Triage → Baseline → Control → Optimize → Enable → Measure |
 | 07 | [Enterprise UBB Billing Scenarios](07-UBB-Billing-Scenarios-Enterprise.md) ([HTML](07-UBB-Billing-Scenarios-Enterprise.html)) | Enterprise plan pooling, overage, promotion, chargeback, and budget scenarios |
+| 08 | [Individual Plans: Pro, Pro+, Max+ Scenarios](08-Individual-Plans-Pro-ProPlus-MaxPlus-Scenarios.md) | Copilot Pro & Pro+ scenarios plus a projected Max+ tier — usage profiles, plan-fit guidance, cross-plan comparison |
 
 ## Key Facts
 
-- **AI Credits**: 1 credit = $0.01 USD, pooled at the organization level
+- **AI Credits**: 1 credit = $0.01 USD, pooled at the organization level (individual plans are not pooled)
 - **Business plan**: $19/user/month → 1,900 credits/user (promo: 3,000 until Aug 2026)
 - **Enterprise plan**: $39/user/month → 3,900 credits/user (promo: 7,000 until Aug 2026)
+- **Pro plan**: $10/month → 1,000 credits (individual, not pooled)
+- **Pro+ plan**: $39/month → 3,900 credits (individual, not pooled)
+- **Max+ plan** *(projected, not yet announced)*: $79/month → ~7,900 credits (estimate)
 - **Code completions**: Remain free and unlimited
 - **Billing formula**: `(Input tokens × rate) + (Cache read tokens × rate) + (Output tokens × rate) = cost → credits`
 
